@@ -1,0 +1,6 @@
+{
+  "name": "elan-atelier",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static site (index, vesper, vaultshield) served from /public. React/TSX sources in /components are reference-only and are not part of the deployed build."
+}
